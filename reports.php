@@ -7,8 +7,12 @@
 
 
   <body>
-    <input type:"date" name="datefrom" value="">
-    <input type:"date" name="dateto" value="">
+    Date From:<br>
+    <input type:"date" name="datefrom" value=""><br>
+    Date To:<br>
+    <input type:"date" name="dateto" value=""><br>
+    <input type="button" name="submit" value="submit">
+
   </body>
 </html>
 
